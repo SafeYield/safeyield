@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/safeyield.sol": "Context"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/safeyield.sol": {
+			"keccak256": "0x9b26111361732dd759d1caa126a6a0d0be6f4ed371a4b04334d4e12e5a309dee",
+			"urls": [
+				"bzz-raw://433e951bebc9d7b04e4efe963427ec9fccd1f37238be8e174faadd34610f867b",
+				"dweb:/ipfs/QmT3QqKbQG2UjQGvQKEubLkvfgkmtYZn8wB4oMtgAX2V2H"
+			]
+		}
+	},
+	"version": 1
+}
